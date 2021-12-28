@@ -4,4 +4,4 @@
 https://imenelhakim.github.io/Angular/
 
 ## Start browser-sync
-browser-sync --start --server --directory --files "**/*"
+``` browser-sync --start --server --directory --files "**/*" ```
